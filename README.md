@@ -2,7 +2,7 @@ Bootstrap Sprite Generator
 ==========================
 
 Generate <a href="http://twitter.github.com/bootstrap/">twitter bootstrap</a> sprite files for different icon libraries.
-<br/>Supported icon libraries: <a href="http://glyphicons.com">Glyph Icon</a>, <a href="http://p.yusukekamiyamane.com/">Figue Icons</a> and Generic Folders :)
+<br/>Supported icon libraries: <a href="http://glyphicons.com">Glyph Icon</a>, <a href="http://p.yusukekamiyamane.com/">Fugue Icons</a> and Generic Folders :)
 
 I bought Glyph Icons Pro Library recently and found 
 that it is really hard to create <a href="https://github.com/twitter/bootstrap/blob/master/less/sprites.less">sprite.less</a> file and <a href="https://github.com/twitter/bootstrap/blob/master/img/glyphicons-halflings.png">sprite image</a> file for 400 icons. I am not a designer and I do not have 

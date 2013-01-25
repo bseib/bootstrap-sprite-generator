@@ -198,7 +198,7 @@ class SpriteGenerator(object):
         return "\n".join(lines)
 
 def main():
-    parser = ArgumentParser(usage="%(prog)s [options]", description="Generate bootstrap sprite files for different icon libraries.", epilog="Supported icon libraries: GlyphIcon, FigueIcons and Generic Folders :)")
+    parser = ArgumentParser(usage="%(prog)s [options]", description="Generate bootstrap sprite files for different icon libraries.", epilog="Supported icon libraries: GlyphIcon, FugueIcons and Generic Folders :)")
     parser.add_argument('-d', dest='icon_dir', help="icon files directory")
     parser.add_argument('-o', dest='output_dir', help="result files directory. if directory does not exist, it will be created automatically.")
     parser.add_argument('-r', dest='resize', help="resize original library icons to specific size(pixels)", default=None, type=int)
